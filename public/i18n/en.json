@@ -1,0 +1,72 @@
+{
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "faq": "FAQ",
+    "contact": "Contact",
+
+    "innovate": "Innovate,",
+    "transform": "Transform,",
+    "succeed": "Succeed",
+    "together": "Together",
+    "slogan": "At RASEMA, we're dedicated to harnessing the latest emerging technologies in a safe, secure, and legally compliant manner. Our mission is to empower your digital future, one innovative step at a time – because tech doesn't have to be rocket science (unless you want it to be)!",
+
+
+    "whatWeDo": "What We Do?",
+    "whatWeDo1": "At RASEMA, our consultancy services span a wide spectrum of expertise, encompassing information technology activities, engineering-related scientific and technical activities, combined with management consultancy activities. We proudly collaborate with leading organizations in diverse fields, including technological infrastructures, AI technologies, VR and AR technologies, and city technological infrastructures.",
+    "whatWeDo2": "Our team of highly skilled engineers and managers brings real-world experience and creative direction to the table. We work alongside our clients to address the complexities of their industries, from optimizing manufacturing processes and implementing sustainable technological solutions to enhancing organizational efficiency and ensuring regulatory compliance.",
+
+    "experience1":"Number of Technology consulting projects completed in the last year",
+    "experience2":"Global partners and experts dedicated to Technology and AI technology services industries",
+
+    "ourValues":"Our values",
+    "excellence":"Excellence",
+    "excellenceText":"We strive for excellence in everything we do, from delivering top-tier consultancy services to fostering a culture of continuous improvement.",
+    "innovation": "Innovation",
+    "innovationText": "Innovation is at the heart of what we do. We embrace cutting-edge technologies and creative thinking to drive meaningful change for our clients.",
+    "integrity":"Integrity",
+    "integrityText":"We uphold the highest standards of integrity and ethics. Trust and transparency are the cornerstones of our client relationships.",
+    "clientCentric": "Client-Centric",
+    "clientCentricText": "Our clients are our priority. We are dedicated to understanding their unique needs and delivering tailored solutions that exceed their expectations.",
+
+    "solutions": "Innovative Solutions",
+    "approach": "Client-Centric Approach",
+    "discover": "Discover RASEMA",
+    "discoverText": "Connecting you with our global technology strategy & advisory experts. It's the perfect time to unlock extraordinary business value through technology, and our team is here to guide the way. Ready to elevate your business? Apply to work with us today!",
+    
+    "faqText": "Frequently Asked Questions",
+    "faq1":"What is technology consulting?",
+    "faq1Text":"A technology consulting sales company is a business that provides technology advisory services while actively selling and promoting technology solutions to clients. They help businesses identify and implement the right technology solutions to address their specific needs and objectives, bridging the gap between technology expertise and effective sales and marketing.",
+    "faq2": "Management consulting vs technology consulting?",
+    "faq2Text":"Management consulting focuses on helping organizations improve their overall performance, strategy, and operations, often across various industries. Technology consulting specializes in advising on technology-related challenges, including IT strategy, software implementation, and digital transformation, with a primary emphasis on technology solutions and infrastructure.",
+    "faq3": "Why technology consulting?",
+    "faq3Text":"Technology consulting is essential for organizations seeking to harness the full potential of technology to improve efficiency, competitiveness, and innovation in today's digital age. It provides expert guidance on technology adoption, optimization, and transformation, enabling businesses to adapt and thrive in an ever-evolving technological landscape.",
+
+    "contactText":"Contact Us",
+    "firstName":"First name",
+    "lastName": "Last name",
+    "region": "Country Region",
+    "phone": "Phone number",
+    "company": "Company/Organization",
+    "relation": "Relationship to Rasema",
+    "other":"If Other, please specify",
+    "textArea":"How can we help you? (5000 characters max)",
+    "submit": "Submit",
+    "submitText": "Your demand was sent to Rasema’s team. We’ll be in touch soon.",
+    "formText":"We appreciate your interest in RASEMA. Please fill the form below.",
+
+    "optionDefault":"Select an option",
+    "option1":"Academic or Professional Researcher",
+    "option2":"Alliance Partner – Potential Alliance Partner",
+    "option3":"Current client",
+    "option4":"Current employee",
+    "option5": "Financial or Consulting Industry Analyst",
+    "option6":"Former Employee",
+    "option7":"Investor – Potential Investor",
+    "option8":"Job seeker",
+    "option9":"Journalist",
+    "option10":"New Supplier – Vendor",
+    "option11":"Potential client",
+    "option12":"Other"
+
+}
