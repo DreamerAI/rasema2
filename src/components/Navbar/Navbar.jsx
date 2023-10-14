@@ -33,34 +33,36 @@ export const Navbar = () => {
           className="flex z-[100]"
         />
 
-        <div className="flex md:hidden z-[100] gap-5" onClick={toggleMenu}>
+        <div className="flex md:hidden z-[100] gap-5">
           <button
             className="bg-teal-400 ml-10 py-1 px-4 rounded-block"
             onClick={handleLanguageChange}>
             {i18n.language === 'en' ? 'EN' : 'RU'}
           </button>
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            className="w-6 h-6 cursor-pointer"
-            fill="none"
-            viewBox="0 0 24 24"
-            stroke="#2dd4bf">
-            {isOpen ? (
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                strokeWidth={2}
-                d="M6 18L18 6M6 6l12 12"
-              />
-            ) : (
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                strokeWidth={2}
-                d="M4 6h16M4 12h16M4 18h16"
-              />
-            )}
-          </svg>
+          <div onClick={toggleMenu}>
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              className="w-6 h-6 cursor-pointer"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="#2dd4bf">
+              {isOpen ? (
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth={2}
+                  d="M6 18L18 6M6 6l12 12"
+                />
+              ) : (
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth={2}
+                  d="M4 6h16M4 12h16M4 18h16"
+                />
+              )}
+            </svg>
+          </div>
         </div>
         <ul
           className={`md:flex md:items-center md:pb-0 pb-12 absolute md:static bg-white md:z-auto z-[10] left-0 w-full md:w-auto md:pl-0 pl-9 transition-all duration-500 ease-in ${
