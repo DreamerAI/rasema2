@@ -3,7 +3,7 @@ import i18nBackend from 'i18next-http-backend';
 import { initReactI18next } from 'react-i18next';
 
 const getCurrentHost =
-  import.meta.env.MODE === 'development' ? 'http://localhost:5173' : 'https://rasema2.vercel.app';
+  import.meta.env.MODE === 'development' ? 'http://localhost:5174' : 'https://rasema2.vercel.app';
 
 i18n
   .use(i18nBackend)

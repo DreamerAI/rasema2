@@ -8,7 +8,7 @@ export const FirstBlock = () => {
     <section
       className=" relative -z-10 p-10 flex justify-around w-full items-center flex-col lg:flex-row min-h-[80vh] bg-[url('/src/assets/images/first.jpg')] bg-cover gap-7 md:bg-fixed bg-scroll rounded-block "
       id="home">
-      <h2 className="relative text-black z-10 text-5xl font-bold leading-snug md:leading-loose text-center md:text-left">
+      <h2 className="relative text-black z-10  md:text-5xl text-3xl font-bold leading-snug md:leading-loose text-center md:text-left">
         <AnimatedText duration={0.4} position={-200}>
           {t('innovate')}&nbsp;
         </AnimatedText>
@@ -24,7 +24,7 @@ export const FirstBlock = () => {
           {t('together')}
         </BottomAnimatedText>
       </h2>
-      <p className="relative z-10 font-semibold text-black text-2xl w-full md:w-full">
+      <p className="relative z-10 font-semibold text-black text-xl md:text-2xl w-full md:w-full">
         {t('slogan')}
       </p>
 

@@ -35,7 +35,7 @@ export const FourthBlock = () => {
           </AnimatedText>
           <AnimatedText duration={0.6} position={100}>
             <li className="text-lg  p-5 rounded-block">
-              <h3 className="text-3xl text-center font-semibold mb-5 gradient-primary">
+              <h3 className="text-2xl md:text-3xl break-words text-center font-semibold mb-5 gradient-primary">
                 {t('clientCentric')}
               </h3>
               <p>{t('clientCentricText')}</p>
